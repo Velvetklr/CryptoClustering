@@ -1,4 +1,4 @@
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/velvetrobinson/Desktop/Screenshot%25202023-12-15%2520at%25208.06.51%2520AM.png?version%253D1702656435970)
+![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/velvetrobinson/Documents/GitHub/CryptoClustering/Resources/Screenshot%25202023-12-15%2520at%25208.06.51%2520AM.png?version%253D1702657133212)
 
 # CryptoClustering
 ![MIT](https://img.shields.io/badge/License%20-%20MIT%20-%20%234e8983)
